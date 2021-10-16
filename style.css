@@ -1,0 +1,58 @@
+body {
+  font-family: sans-serif;
+  margin-left: 10vmax;
+  margin-right: 10vmax;
+  background-image: url("img/bg.png");
+}
+
+h1 {
+  text-align: left;
+  font-size: 5vw;
+  float: right;
+  border-style: double;
+  border-width: 5px;
+  background-color: pink;
+}
+
+h2 {
+  padding-top: 3%;
+  font-size: 3vw;
+}
+
+.imgresponsive {
+  width: 20%;
+  height: auto;
+}
+
+nav{
+    font-size: 1.5vw;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  padding-left: 25%
+}
+
+li {
+  float: left;
+  padding-right: 15%;
+}
+
+p{
+  font-size: 1.6vw;
+}
+
+a:link {
+  text-decoration: none;
+}
+
+a:hover {
+  color: black;
+  text-decoration: underline;
+}
+
+div {
+  padding: 5%
+}
